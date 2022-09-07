@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     cout<<"aaaaaaaaaaaaaaaa"<<endl;
+    cout<<"bbbbbbbbbbbbbbbb"<<endl;
 
     Server server;//客户端的函数类
 
