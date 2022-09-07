@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/project/led/Led.cpp
+Led.h
+/home/ubuntu/project/led/Led.h
+
+/home/ubuntu/project/led/Led.h
+iostream
+-
+wiringPi.h
+/home/ubuntu/project/led/wiringPi.h
+

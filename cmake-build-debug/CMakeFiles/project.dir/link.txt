@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/project.dir/main.cpp.o CMakeFiles/project.dir/server/Server.cpp.o CMakeFiles/project.dir/led/Led.cpp.o  -o project  -lwiringPi 
